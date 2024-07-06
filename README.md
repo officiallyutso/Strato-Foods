@@ -5,5 +5,6 @@ This is a Flutter Restaurant/Food delivery app. This kit comes packed with 25 be
 
 
 
+![image5-imageonline co-merged](https://github.com/officiallyutso/Strato-Foods/assets/62977856/b055cc8d-5342-4b6c-a3d1-9a2ebc723a1e)
 
 
